@@ -5,7 +5,7 @@ RIN Project page: http://www.rin-bd.org/serial-parallel-opt-c/
 
 RIN Project page on Github: http://rfaisal.github.io/SPOKC/project-rin.html
 
-RIN Contributors: Sabbir Ahmad and Rakin Haider
+RIN Contributors: Sabbir Ahmad,Rakin Haider and  Nirish Pratim Debnath
 
 RIN Project Progress: https://www.pivotaltracker.com/s/projects/827507
 ###***********************************************
